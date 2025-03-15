@@ -74,7 +74,7 @@ Follow these steps:
 # 1️⃣ Fork the repository
 
 ```
-git clone [https://github.com/your-username/reinforcement-learning-101.git](https://github.com/armlynobinguar/Reinforcement-Learning-101.git)
+git clone https://github.com/armlynobinguar/Reinforcement-Learning-101.git
 cd reinforcement-learning-101
 ```
 
