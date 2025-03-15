@@ -103,20 +103,6 @@ git push origin my-new-feature
 
 ---
 
-### 🔥 **What's New in This Version?**  
-
-✅ **Interactive checklist** for tracking progress  
-✅ **Collapsible sections** (keeps README clean)  
-✅ **Step-by-step contribution guide**  
-✅ **Engaging CTA (Call-to-Action) at the end**  
-
-This makes the repo **welcoming, structured, and easy to navigate**. 🚀  
-
-Let me know if you want any **extra features**, like:  
-- **Colab buttons** for quick execution  
-- **A GIF showcasing RL in action**  
-- **Badges for programming languages used**  
-
 Happy coding! 🎯
 
 ## 📄 License
