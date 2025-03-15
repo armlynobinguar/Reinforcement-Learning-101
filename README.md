@@ -75,7 +75,7 @@ Follow these steps:
 
 ```
 git clone https://github.com/armlynobinguar/Reinforcement-Learning-101.git
-cd reinforcement-learning-101
+cd Reinforcement-Learning-101
 ```
 
 # 2️⃣ Create a new branch
