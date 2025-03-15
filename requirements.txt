@@ -1,19 +1,6 @@
-# Core libraries
-numpy>=1.19.0
-matplotlib>=3.3.0
-scipy>=1.5.0
-
-# Deep learning
-torch>=1.7.0
-torchvision>=0.8.0
-
-# Reinforcement learning environments
-gymnasium>=0.26.0  # The new version of gym
-gym>=0.21.0  # For backward compatibility
-
-# Optional utilities
-tqdm>=4.50.0  # Progress bars
-pandas>=1.1.0  # Data manipulation
-seaborn>=0.11.0  # Statistical data visualization
-pillow>=8.0.0  # Image processing
-imageio>=2.9.0  # For saving animations 
+numpy==1.24.3
+matplotlib==3.7.1
+gym==0.26.2
+torch==2.0.1
+scipy==1.10.1
+pandas==2.0.1
