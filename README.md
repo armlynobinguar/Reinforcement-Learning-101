@@ -8,13 +8,13 @@
 
 ## 🚀 Welcome to Reinforcement Learning 101  
 
-A **hands-on, structured** learning journey into **Reinforcement Learning (RL)**. Whether you're a beginner or experienced in AI, this repository helps you master everything from **Q-learning** to **Multi-Agent RL**.
+A **structured, hands-on** learning journey into **Reinforcement Learning (RL)**. Whether you're a beginner or experienced in AI, this repository helps you master everything from **Q-learning** to **Multi-Agent RL, Meta RL, and Safe RL**.
 
 ### 🔥 What You'll Learn  
 ✅ How RL agents interact with environments  
 ✅ Training intelligent agents using **Q-Learning & Deep Q Networks**  
 ✅ Implementing **policy gradients & actor-critic methods**  
-✅ Handling **multi-agent RL, bandits, and model-based RL**  
+✅ Handling **multi-agent RL, imitation learning, and safe RL**  
 
 ---
 
@@ -38,11 +38,14 @@ Each module is **self-contained**, with notebooks and code examples!
 | [ ] | `08_Bandits` | Multi-Armed Bandit Problems |
 | [ ] | `09_Model_Based_RL` | World Models and Planning |
 | [ ] | `10_Function_Approximation` | Using Neural Nets for Value/Policy Approximation |
+| [ ] | `11_Hierarchical_RL` | Options Framework and Hierarchical RL |
+| [ ] | `12_Imitation_Learning` | Behavioral Cloning & Inverse RL |
+| [ ] | `13_Meta_RL` | Model-Agnostic Meta Learning (MAML) |
+| [ ] | `14_Safe_RL` | Constrained Policy Optimization & Risk-Aware RL |
 
 </details>  
 
 🔹 **Tip:** Check off topics as you progress!
-
 ---
 
 ## 📚 Prerequisites  
