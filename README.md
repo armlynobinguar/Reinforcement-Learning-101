@@ -1,4 +1,4 @@
-# 🎓 Reinforcement Learning 101  
+# 🎓 Reinforcement-Learning 101  
 
 [![Twitter/X](https://img.shields.io/badge/X-@Aeriumcius-blue?style=flat&logo=twitter)](https://x.com/Aeriumcius)
 [![GitHub](https://img.shields.io/badge/GitHub-armlynobinguar-black?style=flat&logo=github)](https://github.com/armlynobinguar)
